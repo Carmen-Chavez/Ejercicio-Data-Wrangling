@@ -1,16 +1,16 @@
-# 🛒  Ejercicio de data wrangling y visualización en una de plataforma de entregas
+# 💻  Ejercicio de data wrangling y visualización en una de plataforma de entregas 🏃
 
 ## 📋 Descripción
 Análisis de patrones de compra en supermercados mediante data wrangling y visualización. Se procesaron múltiples datasets con problemas de calidad (duplicados, valores nulos, inconsistencias) para identificar tendencias de comportamiento de clientes: horarios pico de compra, días preferidos y frecuencia de pedidos
 
 ## 🎯 Objetivos
-- Limpiar y procesar datos de transacciones de e-commerce
+- Limpiar y procesar datos como valores nulos, duplicados, incosistencias 
 - Identificar patrones de compra por horario y día de la semana
 - Analizar la relación entre productos, pasillos y departamentos
 - Detectar y corregir inconsistencias en los datos
 - Ver hábitos de consumo
 ## 📊 Datasets Utilizados
-- **orders.csv**: Información de pedidos (fecha, hora, usuario)
+- **instacart_orders.csv**: Información de pedidos (fecha, hora, usuario)
 - **products.csv**: Catálogo de productos
 - **order_products.csv**: Relación pedidos-productos
 - **aisles.csv**: Información de pasillos
