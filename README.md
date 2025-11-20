@@ -1,4 +1,4 @@
-# 🖥️ Análisis de Datos de Call Center
+# 🖥️ Análisis de Datos de Call Center (4)
 
 ## 📋 Descripción
 En una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash. El conjunto de datos con el que se trabajo, tiene modificaciones del original. Se redujo el tamaño del conjunto para que los cálculos se hicieran más rápido y se introdujeron valores ausentes y duplicados. Se tuvo cuidado de conservar las distribuciones de los datos originales cuando se hicieron los cambios.
